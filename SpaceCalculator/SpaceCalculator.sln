@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpaceCalculator", "SpaceCalculator.csproj", "{1867F53D-7CB7-4E9A-9604-25961CDA4BC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceCalculator.Tests", "..\SpaceCalculator.Tests\SpaceCalculator.Tests.csproj", "{0AE38BEC-CD43-4119-A883-3EBAE12F5B44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1867F53D-7CB7-4E9A-9604-25961CDA4BC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1867F53D-7CB7-4E9A-9604-25961CDA4BC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1867F53D-7CB7-4E9A-9604-25961CDA4BC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1867F53D-7CB7-4E9A-9604-25961CDA4BC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AE38BEC-CD43-4119-A883-3EBAE12F5B44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AE38BEC-CD43-4119-A883-3EBAE12F5B44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AE38BEC-CD43-4119-A883-3EBAE12F5B44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AE38BEC-CD43-4119-A883-3EBAE12F5B44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8B8B574-E86E-4A6D-B6FB-E13D85B09540}
+	EndGlobalSection
+EndGlobal

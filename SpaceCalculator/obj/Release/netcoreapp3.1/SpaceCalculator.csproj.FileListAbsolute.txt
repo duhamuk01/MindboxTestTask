@@ -1,0 +1,9 @@
+C:\Users\duham\source\repos\SpaceCalculator\bin\Release\netcoreapp3.1\SpaceCalculator.deps.json
+C:\Users\duham\source\repos\SpaceCalculator\bin\Release\netcoreapp3.1\SpaceCalculator.dll
+C:\Users\duham\source\repos\SpaceCalculator\bin\Release\netcoreapp3.1\SpaceCalculator.pdb
+C:\Users\duham\source\repos\SpaceCalculator\obj\Release\netcoreapp3.1\SpaceCalculator.csprojAssemblyReference.cache
+C:\Users\duham\source\repos\SpaceCalculator\obj\Release\netcoreapp3.1\SpaceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\duham\source\repos\SpaceCalculator\obj\Release\netcoreapp3.1\SpaceCalculator.AssemblyInfoInputs.cache
+C:\Users\duham\source\repos\SpaceCalculator\obj\Release\netcoreapp3.1\SpaceCalculator.AssemblyInfo.cs
+C:\Users\duham\source\repos\SpaceCalculator\obj\Release\netcoreapp3.1\SpaceCalculator.dll
+C:\Users\duham\source\repos\SpaceCalculator\obj\Release\netcoreapp3.1\SpaceCalculator.pdb
